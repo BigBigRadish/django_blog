@@ -1,0 +1,37 @@
+2018-01-18 15:39:28,612 [Thread-70:7216] [blog.views:177] [views:do_reg] [ERROR]- 'WSGIRequest' object has no attribute 'session'
+2018-01-18 15:39:59,126 [Thread-75:5988] [blog.views:201] [views:do_login] [ERROR]- 'WSGIRequest' object has no attribute 'session'
+2018-01-18 15:40:14,124 [Thread-78:9332] [blog.views:201] [views:do_login] [ERROR]- 'WSGIRequest' object has no attribute 'session'
+2018-01-18 15:46:26,333 [Thread-21:492] [blog.views:201] [views:do_login] [ERROR]- 'WSGIRequest' object has no attribute 'session'
+2018-01-18 15:54:53,208 [Thread-5:5664] [blog.views:201] [views:do_login] [ERROR]- 'WSGIRequest' object has no attribute 'session'
+2018-01-18 18:16:39,113 [Thread-23:312] [blog.views:201] [views:do_login] [ERROR]- Reverse for '' not found. '' is not a valid view function or pattern name.
+2018-01-18 19:37:21,741 [Thread-26:4800] [blog.views:124] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-18 19:38:35,270 [Thread-38:6948] [blog.views:201] [views:do_login] [ERROR]- Reverse for '' not found. '' is not a valid view function or pattern name.
+2018-01-18 19:44:20,689 [Thread-19:8084] [blog.views:201] [views:do_login] [ERROR]- Reverse for '' not found. '' is not a valid view function or pattern name.
+2018-01-18 19:46:31,538 [Thread-34:9508] [blog.views:124] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-18 19:57:49,041 [Thread-18:9356] [blog.views:124] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-18 20:05:24,361 [Thread-19:19152] [blog.views:124] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-18 20:05:30,893 [Thread-20:19188] [blog.views:124] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-18 20:06:53,545 [Thread-2:19004] [blog.views:124] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-18 20:10:37,003 [Thread-4:17804] [blog.views:201] [views:do_login] [ERROR]- Reverse for '' not found. '' is not a valid view function or pattern name.
+2018-01-18 20:13:14,639 [Thread-36:11816] [blog.views:124] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-18 20:13:51,091 [Thread-2:3460] [blog.views:124] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-18 20:14:28,574 [Thread-15:828] [blog.views:124] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-18 20:14:37,683 [Thread-17:13244] [blog.views:124] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-18 20:14:55,030 [Thread-21:18512] [blog.views:124] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-18 20:15:05,060 [Thread-23:18792] [blog.views:124] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-18 20:15:10,626 [Thread-25:18516] [blog.views:124] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-18 20:15:28,237 [Thread-28:19452] [blog.views:124] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-18 20:23:48,280 [Thread-45:19436] [blog.views:201] [views:do_login] [ERROR]- Reverse for '' not found. '' is not a valid view function or pattern name.
+2018-01-18 20:24:27,984 [Thread-52:11960] [blog.views:124] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-18 20:31:11,266 [Thread-44:17688] [blog.views:124] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-18 20:31:31,282 [Thread-46:4984] [blog.views:124] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-18 21:32:36,060 [Thread-26:19116] [blog.views:124] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-18 21:32:54,497 [Thread-36:12800] [blog.views:124] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-18 21:36:58,788 [Thread-45:5832] [blog.views:124] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-19 13:23:15,225 [Thread-13:8628] [blog.views:125] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-19 16:32:36,506 [Thread-3:2016] [blog.views:125] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-19 16:59:56,545 [Thread-2:5888] [blog.views:125] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-19 17:00:06,553 [Thread-10:14448] [blog.views:125] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-19 17:00:21,776 [Thread-13:10548] [blog.views:202] [views:do_login] [ERROR]- argument of type 'NoneType' is not iterable
+2018-01-19 17:02:20,495 [Thread-12:6852] [blog.views:125] [views:article] [ERROR]- 'bool' object is not callable
+2018-01-19 17:02:32,905 [Thread-13:3160] [blog.views:125] [views:article] [ERROR]- 'bool' object is not callable
